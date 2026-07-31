@@ -1,2 +1,2 @@
 # Wu-Zi-Qi
-训练五子棋AI模型，GAN网络
+已经在models里放置了训练100000次对局的模型（per agent）
