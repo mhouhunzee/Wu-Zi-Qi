@@ -1,0 +1,13 @@
+# 五子棋AI项目依赖
+
+# 核心依赖
+torch>=2.0.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# 可选：如果需要可视化
+matplotlib>=3.7.0
+
+# 可选：如果使用Flask Web界面
+flask>=2.3.0
+flask-cors>=4.0.0
